@@ -1,0 +1,39 @@
+*{
+        margin:0px;
+        padding: 0px;
+}
+h1{
+        text-align: center;
+        background-color: aqua;
+}
+body{
+        background-color: rgb(236, 230, 230);
+        font-weight: bold;
+        
+}
+/* label{
+        width: 10rem;
+        display: inline-block;
+} */
+.container{
+        margin-left: 5px;
+}
+#btn{
+        justify-content: center;
+        text-align: left;
+}
+button{
+        border: 2px solid black;
+        border-radius: 5px;
+        padding: 4px 12px;
+        margin: 0px 50px;
+}
+input{
+        width: 10rem;
+}
+select{
+        width: 8rem;
+}
+#Eqp{
+        color: red;
+}
